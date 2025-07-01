@@ -1,0 +1,16 @@
+# Python files (not needed for static site)
+*.py
+*.pkl
+*.csv
+__pycache__/
+*.pyc
+venv/
+diabetes_env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
